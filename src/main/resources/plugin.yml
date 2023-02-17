@@ -1,0 +1,11 @@
+name: Metro_Lobby
+version: '${project.version}'
+main: de.polo.metro_lobby.Main
+api-version: 1.16
+authors: [ Polo66 ]
+description: Metro Lobbysystem
+
+commands:
+  setloc:
+  spawn:
+  fly:
